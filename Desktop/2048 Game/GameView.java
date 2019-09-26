@@ -1,14 +1,3 @@
-/**********************************************************
- * Assignment: (GameState)
- *
- * Author: (Nafis Rahman)
- *
- * Description: (It displays 2048 game)
- *
- * Academic Integrity: I pledge that this program represents my own work. I
- * received help from (Nathan) in designing and debugging
- * my program.
- **********************************************************/
 package twosCP2;
 import java.awt.*;
 import java.awt.event.*;
