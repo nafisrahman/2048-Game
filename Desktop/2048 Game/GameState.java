@@ -1,14 +1,3 @@
-/**********************************************************
- * Assignment: (GameState)
- *
- * Author: (Nafis Rahman)
- *
- * Description: (It sets the status, score and 4x4 grid)
- *
- * Academic Integrity: I pledge that this program represents my own work. I
- * received help from (Nathan) in designing and debugging
- * my program.
- **********************************************************/
 package twosCP2;
 import java.util.ArrayList;
 
